@@ -1,4 +1,9 @@
-package Inheritance;
+/**
+ * 20.02.2018
+ * eun1310434@naver.com
+ * https://blog.naver.com/eun1310434
+*/
+package com.eun1310434.Inheritance;
 
 class ObjectExtends_Sub extends Object{
 	//모든 클래스에는 Object클래스가 기본적으로 상속 되어 있음
